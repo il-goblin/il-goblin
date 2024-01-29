@@ -1,0 +1,4 @@
+- Lowlife creature
+- Urban goblin
+- Glizzy gobbler
+- Mischievous fella
